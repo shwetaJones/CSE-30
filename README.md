@@ -1,9 +1,9 @@
 # CSE-30
-Programming Abstractions: Python
+## Programming Abstractions: Python
 
-Univerity: University of California, Santa Cruz
+### Univerity: University of California, Santa Cruz
 
-Professor: Luca de Alfaro
+### Professor: Luca de Alfaro
 
 All programming assignments used python notebooks which were opened and edited using Google Collab. 
 
